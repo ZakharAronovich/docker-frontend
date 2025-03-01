@@ -3,10 +3,8 @@
 Dockerized yandex-praktikum/taski frontend. Part of Intro to Cloud Tech course taught @ HSE.
 
 ## Requirements
-- **Docker**: 
+- **Docker** 
 
-- **Node.js**
-  
 
 ## Build & Run the Docker Container
 1. Clone this repository to your local machine.
